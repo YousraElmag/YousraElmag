@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Yusra, a passionate developer from Egypt.<br><br>My journey into the tech world began after completing my degree in Archaeology at Cairo University. Along the way, I’ve lived in several countries, explored diverse cultures, and mastered a variety of hobbies, each shaping my unique perspective.<br><br>My latest passion is programming. I started as a self-taught developer and later honed my skills through an HackYourFutur academy where I gained professional expertise. Since then, I’ve worked on a number of impactful projects that reflect my dedication to learning and growth
+Hello! I’m Yousra, a passionate developer from Egypt.<br><br>My journey into the tech world began after completing my degree in Archaeology at Cairo University. Along the way, I’ve lived in several countries, explored diverse cultures, and mastered a variety of hobbies, each shaping my unique perspective.<br><br>My latest passion is programming. I started as a self-taught developer and later honed my skills through an HackYourFutur academy where I gained professional expertise. Since then, I’ve worked on a number of impactful projects that reflect my dedication to learning and growth
 
 
 # 💻 Tech Stack:
