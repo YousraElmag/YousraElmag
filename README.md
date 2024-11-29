@@ -16,21 +16,28 @@ My latest passion is programming. I started as a self-taught developer and later
   <div style="width: 48%;">
     <h3><a href="https://github.com/YousraElmag/cohort48-project-group-B">BOOK_CAFE</a></h3>
     <p>BOOK_CAFE: Don't waste your time; your favorite book is with us☕️📚.</p>
+    <a href="https://github.com/YousraElmag?tab=repositories">
     <img src="assets/Screenshot%202024-11-29%20at%2013.03.15.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+    </a>
+    
   </div>
 
   <!-- Project 2 -->
   <div style="width: 48%;">
     <h3><a href="https://github.com/YousraElmag/Sweet-Crunch-recipe-app">Sweet-Crunch</a></h3>
     <p>SWEET_CRUNCH: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.</p>
+    <a href="https://sweet-crunch-recipe-app.netlify.app/">
     <img src="assets/Screenshot%202024-11-29%20at%2013.46.10.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+    </a>
   </div>
 
   <!-- Project 3 -->
   <div style="width: 48%;">
     <h3><a href="https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file">WHAT_IS_THE_WEATHER</a></h3>
     <p>Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.</p>
+    <a href="https://yousrweather.netlify.app/">
     <img src="assets/Screenshot%202024-11-29%20at%2013.47.01.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+    </a>
   </div>
 
   <!-- Project 4 -->
