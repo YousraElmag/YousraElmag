@@ -8,26 +8,52 @@ My latest passion is programming. I started as a self-taught developer and later
 ---
 
 # 🚀 Featured Projects:
-- **[BOOK_CAFE](https://github.com/YousraElmag/cohort48-project-group-B)**:BOOK_CAFE: Don't waste your time; your favorite book is with us☕️📚.  
-![App Screenshot](assets/Screenshot%202024-11-29%20at%2013.03.15.png)
-- **[Sweet-Crunch](https://github.com/YousraElmag/Sweet-Crunch-recipe-app)**:SWEET_CRUNCH: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.  
-![App Screenshot](assets/Screenshot%202024-11-29%20at%2013.46.10.png)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-- **[WHAT_IS_THE_WEATHER](https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file)**: Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.  
-  ![Image Alt Text](assets/Screenshot%202024-11-29%20at%2013.47.01.png)
+<!-- Project 1 -->
+<div>
+  <h3><a href="https://github.com/YousraElmag/cohort48-project-group-B">BOOK_CAFE</a></h3>
+  <p>BOOK_CAFE: Don't waste your time; your favorite book is with us☕️📚.</p>
+  <img src="assets/Screenshot%202024-11-29%20at%2013.03.15.png" alt="App Screenshot" style="width: 100%; max-width: 300px;"/>
+</div>
 
-- **[Coffe-Break_Quiz](https://github.com/YousraElmag/hyf-c48-w2-browsers-quiz-app-coffee-break)**: Test Your information about coffee☕️.  
-  ![Image Alt Text](assets/Screenshot%202024-11-29%20at%2013.47.40.png)
+<!-- Project 2 -->
+<div>
+  <h3><a href="https://github.com/YousraElmag/Sweet-Crunch-recipe-app">Sweet-Crunch</a></h3>
+  <p>SWEET_CRUNCH: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.</p>
+  <img src="assets/Screenshot%202024-11-29%20at%2013.46.10.png" alt="App Screenshot" style="width: 100%; max-width: 300px;"/>
+</div>
 
+<!-- Project 3 -->
+<div>
+  <h3><a href="https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file">WHAT_IS_THE_WEATHER</a></h3>
+  <p>Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.</p>
+  <img src="assets/Screenshot%202024-11-29%20at%2013.47.01.png" alt="App Screenshot" style="width: 100%; max-width: 300px;"/>
+</div>
 
-- **[DA-SALVATORE](https://github.com/YousraElmag/DA-SALVATORE)**: Do you like pizza? Let's try DA-SALVATORE Restaurant🍕.  
-  ![Image Alt Text](assets/Screenshot%202024-11-29%20at%2013.48.44.png)
+<!-- Project 4 -->
+<div>
+  <h3><a href="https://github.com/YousraElmag/hyf-c48-w2-browsers-quiz-app-coffee-break">Coffe-Break_Quiz</a></h3>
+  <p>Test Your information about coffee☕️.</p>
+  <img src="assets/Screenshot%202024-11-29%20at%2013.47.40.png" alt="App Screenshot" style="width: 100%; max-width: 300px;"/>
+</div>
 
+<!-- Project 5 -->
+<div>
+  <h3><a href="https://github.com/YousraElmag/DA-SALVATORE">DA-SALVATORE</a></h3>
+  <p>Do you like pizza? Let's try DA-SALVATORE Restaurant🍕.</p>
+  <img src="assets/Screenshot%202024-11-29%20at%2013.48.44.png" alt="App Screenshot" style="width: 100%; max-width: 300px;"/>
+</div>
 
-- **[YMYM-Cupcake](https://github.com/YousraElmag/YMYM-cupcake)**: Take your dessert from our shop🍰🧁.  
-  ![Image Alt Text](assets/Screenshot%202024-11-29%20at%2013.48.26.png)
+<!-- Project 6 -->
+<div>
+  <h3><a href="https://github.com/YousraElmag/YMYM-cupcake">YMYM-Cupcake</a></h3>
+  <p>Take your dessert from our shop🍰🧁.</p>
+  <img src="assets/Screenshot%202024-11-29%20at%2013.48.26.png" alt="App Screenshot" style="width: 100%; max-width: 300px;"/>
+</div>
 
+</div>
 
 ---
 
@@ -48,5 +74,3 @@ My latest passion is programming. I started as a self-taught developer and later
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
