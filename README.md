@@ -8,9 +8,9 @@ My latest passion is programming. I started as a self-taught developer and later
 ---
 
 # 🚀 Featured Projects:
-- **[Project 1 Name](https://github.com/yourusername/project-1)**: Brief description of the project.  
-- **[Project 2 Name](https://github.com/yourusername/project-2)**: Brief description of the project.  
-- **[Project 3 Name](https://github.com/yourusername/project-3)**: Brief description of the project.  
+- **[BOOK_CAFE](https://github.com/YousraElmag/cohort48-project-group-B)**: Don't waste your time; your favorite book is with us☕️📚.  
+- **[Sweet-Crunch](https://github.com/YousraElmag/Sweet-Crunch-recipe-app)**: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.  
+- **[WHAT_IS_THE_WEATHER](https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file)**: Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.  
 
 ---
 
