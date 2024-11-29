@@ -10,8 +10,10 @@ My latest passion is programming. I started as a self-taught developer and later
 # 🚀 Featured Projects:
 - **[BOOK_CAFE](https://github.com/YousraElmag/cohort48-project-group-B)**: Don't waste your time; your favorite book is with us☕️📚.  
 - **[Sweet-Crunch](https://github.com/YousraElmag/Sweet-Crunch-recipe-app)**: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.  
-- **[WHAT_IS_THE_WEATHER](https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file)**: Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.  
-
+- **[WHAT_IS_THE_WEATHER](https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file)**: Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.
+- **[Coffe-Break_Quiz](https://github.com/YousraElmag/hyf-c48-w2-browsers-quiz-app-coffee-break)**: Test Your infoemation about coffe☕️.
+- **[DA-SALVATORE](https://github.com/YousraElmag/DA-SALVATORE)**:do you like pizza? let's try DA-SALVATORE Restaurant🍕.
+- **[YMYM-Cupcake](https://github.com/YousraElmag/YMYM-cupcake)**: Take your dessert from our shop🍰🧁.  
 ---
 
 # 💻 Tech Stack:
