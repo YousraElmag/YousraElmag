@@ -9,7 +9,7 @@ My latest passion is programming. I started as a self-taught developer and later
 
 # 🚀 Featured Projects:
 - **[BOOK_CAFE](https://github.com/YousraElmag/cohort48-project-group-B)**: Don't waste your time; your favorite book is with us☕️📚.  
-![App Screenshot](/assets/Screenshot 2024-11-29 at 13.03.15.png)
+![App Screenshot](/Users/yousraelmaghraby/YousraElmag/assets/Screenshot 2024-11-29 at 13.03.15.png)
 - **[Sweet-Crunch](https://github.com/YousraElmag/Sweet-Crunch-recipe-app)**: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.  
 ![Image Alt Text](/Users/yousraelmaghraby/YousraElmag/Screenshot 2024-11-29 at 13.46.10.png)
 
