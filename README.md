@@ -10,7 +10,9 @@ My latest passion is programming. I started as a self-taught developer and later
 # 🚀 Featured Projects:
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: grid; gap: 20px; width: 700px; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
+
+
 
   <!-- Project 1 -->
   <div style="width: 48%;">
