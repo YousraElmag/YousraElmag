@@ -38,7 +38,7 @@ My latest passion is programming. I started as a self-taught developer and later
     <h3><a href="https://github.com/YousraElmag/WHAT_IS_THE-WEATHER?tab=readme-ov-file">WHAT_IS_THE_WEATHER</a></h3>
     <p>Check the weather today, tomorrow, follow the advice🌛❄️⛈🌝.</p>
     <a href="https://yousrweather.netlify.app/">
-    <img src="assets/Screenshot%202024-11-29%20at%2013.47.01.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+    <img src="assets/Screenshot 2024-12-10 at 21.24.05.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
     </a>
   </div>
 
