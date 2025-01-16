@@ -75,7 +75,9 @@ My latest passion is programming. I started as a self-taught developer and later
 
 
 ---
-- 🌱 I’m currently learning **python, Socket.IO**
+- 🌱 I’m currently learning ![Python](https://www.python.org/static/community_logos/python-logo.png)
+![Socket.IO](https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg)
+- 🧐 The next plan study the following: Deep dive into cybersecurity, mastering networking, cryptography, penetration testing, secure coding, and automation tools like Nmap, Wireshark, Metasploit.
 
 - 💬 Ask me about **React, Node.js, JavaScript (JS), MongoDB, Express.js**
 
