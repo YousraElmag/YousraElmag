@@ -75,7 +75,7 @@ After exploring the world and its cultures, I found my passion in tech. I began 
 
 - 🧐 The next plan study the following : **Deep dive into cybersecurity, mastering networking, cryptography, penetration testing, secure coding, and automation tools like Nmap, Wireshark, Metasploit.**
 
-- 💬 Ask me about **React, Node.js, JavaScript (JS), MongoDB, Express.js, TypeScript, Supabase, Tailwind CSS, Git, GitHub, Postman, Jest, Cypress, HTML, CSS, SASS, Heroku, Nextjs, Sql
+- 💬 Ask me about **React, Node.js, JavaScript (JS), MongoDB, Express.js, TypeScript, Supabase, Tailwind CSS, Git, GitHub, Postman, Jest, Cypress, HTML, CSS, SASS, Heroku, Nextjs, Sql**
 
 **
 
