@@ -1,9 +1,6 @@
  # 💫 About Me:
-Hello! I’m Yousra, a passionate developer from Egypt.  
-
-My journey into the tech world began after completing my degree in Archaeology at Cairo University. Along the way, I’ve lived in several countries, explored diverse cultures, and mastered a variety of hobbies, each shaping my unique perspective.  
-
-My latest passion is programming. I started as a self-taught developer and later honed my skills through HackYourFuture academy, where I gained professional expertise. Since then, I’ve worked on a number of impactful projects that reflect my dedication to learning and growth.  
+Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Archaeology.
+After exploring the world and its cultures, I found my passion in tech. I began as a self-taught coder, later graduating from HackYourFuture, where I sharpened my professional skills. Today, I build impactful, user-focused web apps and love turning ideas into digital solutions 
 
 ---
 
