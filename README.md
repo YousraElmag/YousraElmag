@@ -4,7 +4,7 @@ Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Arch
 
 ---
 
-# 🚀 Featured Projects:
+
 
 
 <div style="display: grid; gap: 20px; width: 700px; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
