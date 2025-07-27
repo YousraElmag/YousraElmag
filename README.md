@@ -63,7 +63,7 @@ Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Arch
     <h3><a href="https://github.com/YousraElmag/YMYM-cupcake">YMYM-Cupcake</a></h3>
     <p>Take your dessert from our shop🍰🧁.</p>
     <a href="https://ymym-cupcake.netlify.app/">
-    <img src="assets/Screenshot%202024-11-29%20at%2013.48.26.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+ 
     </a>
   </div>
   
