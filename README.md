@@ -26,7 +26,7 @@ Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Arch
     <h3><a href="https://github.com/YousraElmag/Sweet-Crunch-recipe-app">Sweet-Crunch</a></h3>
     <p>SWEET_CRUNCH: Are you wondering what to eat today? Take some suggestions🥗🥘🫕.</p>
     <a href="https://sweet-crunch-recipe-app.netlify.app/">
-    <img src="assets/Screenshot%202024-11-29%20at%2013.46.10.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+   
     </a>
   </div>
 
