@@ -54,7 +54,7 @@ Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Arch
     <h3><a href="https://github.com/YousraElmag/DA-SALVATORE">DA-SALVATORE</a></h3>
     <p>Do you like pizza? Let's try DA-SALVATORE Restaurant🍕.</p>
     <a href="https://da-salvatore.netlify.app/">
-    <img src="assets/Screenshot%202024-11-29%20at%2013.48.44.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+
     </a>
   </div>
 
