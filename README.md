@@ -45,7 +45,7 @@ Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Arch
     <h3><a href="https://github.com/YousraElmag/hyf-c48-w2-browsers-quiz-app-coffee-break">Coffe-Break_Quiz</a></h3>
     <p>Test Your information about coffee☕️.</p>
     <a href="https://coffee-break-app.netlify.app/">
-    <img src="assets/Screenshot%202024-11-29%20at%2013.47.40.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
+   
     </a>
   </div>
 
