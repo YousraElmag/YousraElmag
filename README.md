@@ -15,7 +15,7 @@ After exploring the world and its cultures, I found my passion in tech. I began 
   <div style="width: 48%;">
     <h3><a href="https://github.com/YousraElmag/Book-Cafe-">BOOK_CAFE</a></h3>
     <p>BOOK_CAFE: Don't waste your time; your favorite book is with us☕️📚.</p>
-    <a href="https://c48-group-b-65d4744c77ac.herokuapp.com/">
+    <a href="https://bookcafe2.netlify.app/">
     <img src="assets/Screenshot%202024-11-29%20at%2013.03.15.png" alt="App Screenshot" style="width: 40%; max-width: 250px;"/>
     </a>
     
