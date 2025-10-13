@@ -1,6 +1,6 @@
  # 💫 About Me:
 Hi, I’m Yousra — a Full Stack Web Developer with a unique background in Archaeology.
-After exploring the world and its cultures, I found my passion in tech. I began as a self-taught coder, later graduating from HackYourFuture, where I sharpened my professional skills. Today, I build impactful, user-focused web apps and love turning ideas into digital solutions 
+
 
 ---
 
