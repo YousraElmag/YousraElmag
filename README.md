@@ -57,44 +57,54 @@ I'm a full stack web developer with a background in **archaeology**. Archaeology
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://frinds-1imb.onrender.com/"><img src="assets/projects/friends-chat.jpg" alt="Friends chat app screenshot"/></a>
+      <h3>Friends</h3>
+      <p>Full stack chat app built with React, Express and MongoDB. Users sign up and log in with JWT authentication, search for friends and send messages with emojis.</p>
+      <a href="https://frinds-1imb.onrender.com/">Live demo</a> · <a href="https://github.com/YousraElmag/-friends-">Source code</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://bookcafe2.netlify.app/"><img src="assets/projects/book-cafe.jpg" alt="Book Cafe screenshot"/></a>
       <h3>Book Cafe</h3>
       <p>Full stack book platform: search books, browse categories and save your favorites. Client on Netlify, API on Render.</p>
       <a href="https://bookcafe2.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/Book-Cafe-">Source code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://sweet-crunch-recipe-app.netlify.app/"><img src="assets/projects/sweet-crunch.jpg" alt="Sweet Crunch screenshot"/></a>
       <h3>Sweet Crunch</h3>
       <p>Recipe app to search recipes, get meal ideas and save your favorites.</p>
       <a href="https://sweet-crunch-recipe-app.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/Sweet-Crunch-recipe-app">Source code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://yousrweather.netlify.app/"><img src="assets/projects/weather-app.jpg" alt="What Is The Weather screenshot"/></a>
       <h3>What Is The Weather</h3>
       <p>Weather app for any city: current weather, tomorrow's forecast and practical tips. Uses the OpenWeatherMap API.</p>
       <a href="https://yousrweather.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/WHAT_IS_THE-WEATHER">Source code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://coffee-break-app.netlify.app/"><img src="assets/projects/coffee-break-quiz.jpg" alt="Coffee Break Quiz screenshot"/></a>
       <h3>Coffee Break Quiz</h3>
       <p>Interactive browser quiz about coffee with score tracking.</p>
       <a href="https://coffee-break-app.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/hyf-c48-w2-browsers-quiz-app-coffee-break">Source code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://da-salvatore.netlify.app/"><img src="assets/projects/da-salvatore.jpg" alt="Da Salvatore screenshot"/></a>
       <h3>Da Salvatore</h3>
       <p>Website for an Italian pizza restaurant with menu, specials, events and location.</p>
       <a href="https://da-salvatore.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/DA-SALVATORE">Source code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://ymym-cupcake.netlify.app/"><img src="assets/projects/ymym-cupcake.jpg" alt="YMYM Cupcake screenshot"/></a>
       <h3>YMYM Cupcake</h3>
       <p>Website for a cupcake and dessert shop with product categories and contact page.</p>
       <a href="https://ymym-cupcake.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/YMYM-cupcake">Source code</a>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
