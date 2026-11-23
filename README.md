@@ -77,7 +77,7 @@ I'm a full stack web developer with a background in **archaeology**. Archaeology
       <a href="https://bookcafe2.netlify.app/"><img src="assets/projects/book-cafe.jpg" alt="Book Cafe screenshot"/></a>
       <h3>Book Cafe</h3>
       <p>Full stack book platform: search books, browse categories and save your favorites. Client on Netlify, API on Render.</p>
-      <a href="https://bookcafe2.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/Book-Cafe-">Source code</a>
+      <a href="https://bookcafe2.netlify.app/">Live demo</a> · <a href="https://github.com/YousraElmag/BookCafe">Source code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://sweet-crunch-recipe-app.netlify.app/"><img src="assets/projects/sweet-crunch.jpg" alt="Sweet Crunch screenshot"/></a>
