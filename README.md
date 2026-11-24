@@ -69,7 +69,7 @@ I'm a full stack web developer with a background in **archaeology**. Archaeology
       <a href="https://frinds-1imb.onrender.com/"><img src="assets/projects/friends-chat.jpg" alt="Friends chat app screenshot"/></a>
       <h3>Friends</h3>
       <p>Full stack chat app built with React, Express and MongoDB. Users sign up and log in with JWT authentication, search for friends and send messages with emojis.</p>
-      <a href="https://frinds-1imb.onrender.com/">Live demo</a> · <a href="https://github.com/YousraElmag/-friends-">Source code</a>
+      <a href="https://friends-snowy.vercel.app/">Live demo</a> · <a href="https://github.com/YousraElmag/-friends-">Source code</a>
     </td>
   </tr>
   <tr>
